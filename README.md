@@ -1,16 +1,16 @@
-# 🔐 Password Strength Checker
+# 🔐 Password Strength Checker (Python)
 
-A simple Python tool to evaluate password strength.  
-It checks for 5 key components of strong passwords:
+This is a simple Python project to check the **strength of a password** based on 5 criteria:
 
-- ✅ Minimum length (8 characters)
-- ✅ Uppercase letters
-- ✅ Lowercase letters
-- ✅ Numbers
-- ✅ Special characters
+- Minimum length of 8 characters
+- Contains uppercase letters
+- Contains lowercase letters
+- Includes numbers
+- Includes special characters
+
+---
 
 ## 🚀 How to Use
 
-Run the script:
 ```bash
 python checker.py
