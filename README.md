@@ -14,3 +14,9 @@ This is a simple Python project to check the **strength of a password** based on
 
 ```bash
 python checker.py
+
+---
+
+## 🏷 Tags
+
+`python` `cybersecurity` `passwords` `regex` `open-source`
